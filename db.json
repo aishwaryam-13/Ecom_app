@@ -1,0 +1,90 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Salt",
+      "price": 125,
+      "description": "This product is a good product",
+      "image": "https://m.media-amazon.com/images/I/5136Y63Lq4L._SL500_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Magic Masala",
+      "price": 200,
+      "description": "This product is a good product",
+      "image": "https://m.media-amazon.com/images/I/51J7qLhFWoL._SL500_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Toppings",
+      "price": 70,
+      "description": "This product is a good product",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/766/06-best-individually-packaged-foods-1522242201.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Oranges",
+      "price": 40,
+      "description": "This product is a good product",
+      "image": "https://www.motherjones.com/wp-content/uploads/oranges_netting.jpg"
+    },
+    {
+      "id": "43f0",
+      "name": "Pingles",
+      "price": 250,
+      "description": "This product is a good product",
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/10/pringles.jpg"
+    },
+    {
+      "id": "f32f",
+      "name": "Brown Bread",
+      "price": 50,
+      "description": "This product is a good product",
+      "image": "https://grocerygo.infotechgravity.com/storage/app/public/admin-assets/images/item/item-6671797695352.jpg"
+    },
+    {
+      "id": "e26a",
+      "name": "Pasta",
+      "description": "This product is a good product",
+      "price": 250,
+      "image": "https://www.pepperbowl.com/wp-content/uploads/2025/02/instant-pot-penne-pasta-recipe.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "title": "Oranges",
+      "price": 40,
+      "image": "https://www.motherjones.com/wp-content/uploads/oranges_netting.jpg",
+      "qty": 3
+    },
+    {
+      "id": "1",
+      "title": "Salt",
+      "price": 125,
+      "image": "https://m.media-amazon.com/images/I/5136Y63Lq4L._SL500_.jpg",
+      "qty": 2
+    },
+    {
+      "id": "3",
+      "title": "Toppings",
+      "price": 70,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/766/06-best-individually-packaged-foods-1522242201.jpg",
+      "qty": 2
+    },
+    {
+      "id": "43f0",
+      "title": "Pingles",
+      "price": 250,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/10/pringles.jpg",
+      "qty": 1
+    },
+    {
+      "id": "2",
+      "title": "Magic Masala",
+      "price": 200,
+      "image": "https://m.media-amazon.com/images/I/51J7qLhFWoL._SL500_.jpg",
+      "qty": 2
+    }
+  ]
+}
